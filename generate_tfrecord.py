@@ -34,7 +34,7 @@ def class_text_to_int(row_label):
         return 3
     elif row_label == 'bike':
         return 4
-    elif row_label == 'motobike':
+    elif row_label == 'motorbike':
         return 5
     else:
         None
